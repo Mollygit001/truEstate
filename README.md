@@ -23,8 +23,8 @@ A modern, full-stack application for analyzing retail sales data with advanced f
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd retail-sales-system
+git clone https://github.com/Mollygit001/truEstate.git
+cd truEstate
 ```
 
 ### 2. Backend Setup
@@ -36,10 +36,6 @@ npm install
 ```env
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/retail_sales
-```
-- Seed the database with mock data:
-```bash
-node seed.js
 ```
 - Start the server:
 ```bash
