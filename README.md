@@ -56,5 +56,12 @@ npm run dev
 - `GET /api/sales`: Get sales data (supports query params).
 - `GET /api/sales/filters`: Get available filter options.
 
+## Architecture Diagrams
+
+```
+![System architecture](docs/architecture/images/img1.png)
+![Data flow architecture](docs/architecture/images/img2.png)
+```
+
 ## License
 MIT
